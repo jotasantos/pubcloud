@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+.gradle
+*.retry
+*.inventory
+*.tfstate*
+*.tfstate.backup
+*.terraform
+*.swp
+env_vars.sh
+plan.out
